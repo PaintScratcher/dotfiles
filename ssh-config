@@ -1,0 +1,8 @@
+Host raven
+	HostName raven.adamtaylor.net
+	User adam
+
+Host cs
+	HostName csteach1.york.ac.uk
+	User at895
+
